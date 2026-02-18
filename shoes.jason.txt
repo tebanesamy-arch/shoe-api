@@ -1,0 +1,11 @@
+{
+  "total": 60,
+  "products": [
+    { "id": 1, "title": "Nike Air Max 1", "brand": "Nike", "category": "sneakers", "price": 120 },
+    { "id": 2, "title": "Adidas Ultraboost", "brand": "Adidas", "category": "running", "price": 180 },
+    { "id": 3, "title": "Puma RS-X", "brand": "Puma", "category": "casual", "price": 110 },
+    { "id": 4, "title": "New Balance 550", "brand": "New Balance", "category": "sneakers", "price": 140 },
+    { "id": 5, "title": "Converse Chuck 70", "brand": "Converse", "category": "classic", "price": 90 }
+  ]
+}
+
